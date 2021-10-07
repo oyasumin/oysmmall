@@ -1,0 +1,2 @@
+# oysmmall
+personal practice project
